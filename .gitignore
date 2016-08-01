@@ -1,4 +1,9 @@
 .architect
-bootstrap.json
 build/
 ext/
+.idea/ExtjsUI.iml
+.idea/dictionaries/
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
